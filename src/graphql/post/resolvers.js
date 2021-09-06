@@ -1,4 +1,4 @@
-const posts = () => {
+const posts = async () => {
   return [
     {
       id: '1',
